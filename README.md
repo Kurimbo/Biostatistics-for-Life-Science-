@@ -4,7 +4,7 @@ This repository contains the files needed to run the R scripr for the final proj
     
     R. Script 
     Excel with data 
-    *PDF with abbreviation definity (like a glossary) 
-    *Word script/reporting of the analysis 
+    PDF with abbreviation definity (like a glossary) 
+    Word script/reporting of the analysis 
     
     
